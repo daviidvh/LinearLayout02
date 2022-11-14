@@ -4,7 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/David/AndroidStudioProjects/LinearLayout02/app/src/main/res/drawable/circulo.xml" value="0.361" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/LinearLayout02/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/LinearLayout02/app/src/main/res/layout/activity_main.xml" value="0.67" />
       </map>
     </option>
   </component>
@@ -13,5 +13,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.67" />
+      </ProjectState>
+    </option>
   </component>
 </project>
